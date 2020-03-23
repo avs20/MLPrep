@@ -1,5 +1,8 @@
 Here is the list of videos in order 
 
+Youtube Playlist link - https://www.youtube.com/playlist?list=PLqFsSXmrZ_OU5Gu3hwGqUZPWT0CzJ5_iY
+
+
 1. Numpy and Pandas Part 1 - [Video Link](https://youtu.be/HtUUVsG_RbI)
 2. Numpy and Pandas Part 2 - [Video Link](https://youtu.be/IZV3QEAiU3I)
 3. Numpy and Pandas Part 3 - [Video Link](https://youtu.be/YglOhhznGk4)
