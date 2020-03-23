@@ -6,4 +6,4 @@ Here is the list of videos in order
 4. EDA With Pandas Part 1 - [Video Link](https://youtu.be/SrG841bBpNY)
 5. EDA With Pandas Part 2 - [Video Link](https://youtu.be/9ptLycGdmGw)
 6. Intro to Linear Regression [Video Link](https://youtu.be/-IrzKvu-wAo)
-7. Revision Linear Regression and Intro to sklearn - [Video Link](https://youtu.be/-IrzKvu-wAo)
+7. Revision Linear Regression and Intro to sklearn - [Video Link](https://youtu.be/Q8k-5RpR7lw)
